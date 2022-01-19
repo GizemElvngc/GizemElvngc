@@ -19,9 +19,9 @@
 <img src="https://user-images.githubusercontent.com/73352461/150208815-8b3bb038-a50c-4cbb-907d-412a30962d8b.gif">
 </div>
    
-<div align="center">    
+
 ![snake gif](https://github.com/GizemElvngc/GizemElvngc/blob/output/github-contribution-grid-snake.gif)
-</div> 
+
    
 <div align="center">  
 <a href="https://github.com/anuraghazra/github-readme-stats">
