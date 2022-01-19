@@ -8,22 +8,18 @@
   
   - 🌱 I’m currently learning C# ,Angular
   
- <br>
+<br>
 <a href="https://github.com/mervekrblt/github-profile-views-counter">
     <img align="center" src="https://komarev.com/ghpvc/?username=mervekrblt&color=f75c7e">
 </a>
 
 <br>
-
 <img src="https://user-images.githubusercontent.com/73352461/150208815-8b3bb038-a50c-4cbb-907d-412a30962d8b.gif">
+  
 <br>
-
-<br>
-
 ![snake gif](https://github.com/GizemElvngc/GizemElvngc/blob/output/github-contribution-grid-snake.gif)
+  
 <br>
-
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mervekrblt&layout=compact&theme=radical" />
 </a>
