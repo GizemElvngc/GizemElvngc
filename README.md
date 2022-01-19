@@ -10,13 +10,13 @@
    
  
 <div align="center">  
-<a href="https://github.com/GizemElvngc/github-profile-views-counter">
+  <a href="https://github.com/GizemElvngc/github-profile-views-counter">
     <img align="center" src="https://komarev.com/ghpvc/?username=GizemElvngc&color=f75c7e">
-</a>
+ </a>
 </div>
 
 <div align="center">  
-<img src="https://user-images.githubusercontent.com/73352461/150208815-8b3bb038-a50c-4cbb-907d-412a30962d8b.gif">
+  <img src="https://user-images.githubusercontent.com/73352461/150208815-8b3bb038-a50c-4cbb-907d-412a30962d8b.gif">
 </div>
    
 
@@ -24,7 +24,7 @@
 
    
 <div align="center">  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mervekrblt&layout=compact&theme=radical" />
-</a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mervekrblt&layout=compact&theme=radical" />
+  </a>
 </div>
