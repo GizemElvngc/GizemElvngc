@@ -2,10 +2,9 @@
   Welcome to My GitHub Page
   <img src="https://media.giphy.com/media/3o6gDPE1Oz2PxecruM/giphy.gif" width="28">
 </h1>
-
+<div align="center">
 - 🌱 I’m currently learning C# ,Angular
 
-<div align="center">
 <a href="https://github.com/mervekrblt/github-profile-views-counter">
     <img align="center" src="https://komarev.com/ghpvc/?username=mervekrblt&color=f75c7e">
 </a>
