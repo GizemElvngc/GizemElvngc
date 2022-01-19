@@ -10,6 +10,7 @@
     <img align="center" src="https://komarev.com/ghpvc/?username=mervekrblt&color=f75c7e">
 </a>
 </div>
+
 <div align="center">
 <img src=![giphy](https://user-images.githubusercontent.com/73352461/150208815-8b3bb038-a50c-4cbb-907d-412a30962d8b.gif)>
 </div>
