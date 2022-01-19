@@ -5,12 +5,13 @@
 
 
 <div align="center">
-  
-  - 🌱 I’m currently learning C# ,Angular
-  
-<br>
-<a href="https://github.com/mervekrblt/github-profile-views-counter">
-    <img align="center" src="https://komarev.com/ghpvc/?username=mervekrblt&color=f75c7e">
+    - 🌱 I’m currently learning C# ,Angular
+ <div>
+   
+ 
+<div align="center">  
+<a href="https://github.com/GizemElvngc/github-profile-views-counter">
+    <img align="center" src="https://komarev.com/ghpvc/?username=GizemElvngc&color=f75c7e">
 </a>
 
 <br>
