@@ -25,11 +25,9 @@ Here are some ideas to get you started:
 
 
 ![snake gif](https://github.com/GizemElvngc/GizemElvngc/blob/output/github-contribution-grid-snake.gif)
+
 <div align="center">
-</div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mervekrblt&layout=compact&theme=radical" />
 </a>
-</div>
-
 </div>
