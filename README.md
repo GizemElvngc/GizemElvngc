@@ -1,5 +1,5 @@
 <h1 align="center">
-  Welcome to My GitHub Page
+  Welcome
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
@@ -25,3 +25,8 @@ Here are some ideas to get you started:
 
 
 ![snake gif](https://github.com/GizemElvngc/GizemElvngc/blob/output/github-contribution-grid-snake.gif)
+
+
+
+<div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=GizemElvngc&theme=xcode" /></div>
+<div  align="center"> <img src="https://github.com/mervekrblt/GizemElvngc/blob/output/github-contribution-grid-snake.svg" /></div>
