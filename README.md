@@ -14,5 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![giphy](https://user-images.githubusercontent.com/73352461/150208815-8b3bb038-a50c-4cbb-907d-412a30962d8b.gif)
+
+
+
+
 ![snake gif](https://github.com/GizemElvngc/GizemElvngc/blob/output/github-contribution-grid-snake.gif)
 <iframe src="https://giphy.com/embed/TNf5oSRelTeI8" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/TNf5oSRelTeI8">via GIPHY</a></p>
