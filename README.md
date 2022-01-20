@@ -5,7 +5,7 @@
 
 
 <div align="center">
-    - 🌱 I’m currently learning C# ,Angular
+    - 🌱 I’m currently learning C# 
  <div>
    
  
